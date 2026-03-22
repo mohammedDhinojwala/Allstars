@@ -236,3 +236,13 @@ h2,h3{
   font-family: kalic-italic;
 }
 
+
+/* no scrollbar */
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

@@ -38,8 +38,8 @@ function Genre1() {
                 <p className="font-light text-[0.8rem] 
                               lg:font-light lg:text-[0.9rem]">02/12/2025</p>
 
-                <h2 className="font-bold text-[1.3rem]
-                              lg:font-bold lg:text-[1.5rem]">
+                <h2 className=" text-[1.3rem]
+                               lg:text-[1.5rem]">
                   7 Proven Ways to Speed Up Your Shopify Store ...
                 </h2>
 
@@ -73,8 +73,8 @@ function Genre1() {
                 <p className="font-light text-[0.8rem] 
                               lg:font-light lg:text-[0.9rem]">24/11/2025</p>
 
-                <h2 className="font-bold text-[1.3rem]
-                              lg:font-bold lg:text-[1.5rem]">
+                <h2 className=" text-[1.3rem]
+                               lg:text-[1.5rem]">
                   Best CMS for SEO in 2025 | WordPress, Webflow..
                 </h2>
 
@@ -98,7 +98,7 @@ function Genre1() {
 
               <div className="blogImage2 h-[100%] w-[100%] overflow-hidden">
                 <img 
-                  className="h-[100%] w-[100%] object-center bg-red-900" 
+                  className="h-[100%] w-[100%] object-center" 
                   src="/assets/images/web_growth_2025_blueprint.png" 
                   alt="web growth 2025 blueprint" 
                 />
@@ -108,8 +108,8 @@ function Genre1() {
                 <p className="font-light text-[0.8rem] 
                               lg:font-light lg:text-[0.9rem]">17/11/2025</p>
 
-                <h2 className="font-bold text-[1.3rem]
-                              lg:font-bold lg:text-[1.5rem]">
+                <h2 className=" text-[1.3rem]
+                               lg:text-[1.5rem]">
                    What Is Web Growth? The 2025 Blueprint...
                 </h2>
 
@@ -142,14 +142,49 @@ function Genre1() {
                 <p className="font-light text-[0.8rem] 
                               lg:font-light lg:text-[0.9rem]">20/10/2025</p>
 
-                <h2 className="font-bold text-[1.3rem]
-                              lg:font-bold lg:text-[1.5rem]">
+                <h2 className=" text-[1.3rem]
+                               lg:text-[1.5rem]">
                    How to create Your personal website before college apps
                 </h2>
 
                 <p className="font-medium text-[0.85rem]
                                 lg:font-medium lg:text-[0.8rem]">
                   Explain how it demonstrates initiative...
+                </p>
+              </div>
+
+            </div>
+          </Link>
+
+
+           {/* spidering blog*/}
+          <Link 
+            href="/blog/Spidering-in-seo" 
+            className="w-[100%]
+                      lg:!w-[22%] "
+          >
+            <div className="blog2 h-[45vh] w-[100%] flex flex-col justify-between items-center !p-2 hover:scale-105  transition-transform duration-300 ease-in-out ">
+
+              <div className="blogImage2 h-[100%] w-[100%] overflow-hidden">
+                <img 
+                  className="h-[100%] w-[100%] object-contain" 
+                  src="/assets/images/Spidering-in-seo.jpg"
+                  alt="Spidering in seo" 
+                />
+              </div>
+
+              <div className="blogWriteUps2 h-[50%] w-[100%] flex flex-col justify-around items-start cursor-pointer gap-1">
+                <p className="font-light text-[0.8rem] 
+                              lg:font-light lg:text-[0.9rem]">22/03/2026</p>
+
+                <h2 className=" text-[1.3rem]
+                               lg:text-[1.5rem]">
+                  What Is Spidering in SEO? How Google ...
+                </h2>
+
+                <p className="font-medium text-[0.85rem]
+                                lg:font-medium lg:text-[0.8rem]">
+                  If you’ve ever wondered how a website actually appears in search results, the answer begins...
                 </p>
               </div>
 
