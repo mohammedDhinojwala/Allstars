@@ -146,7 +146,7 @@ function SpideringInSEO() {
           </div>
 
           <div className='blog-main-img h-[30vh] w-[100%] my-7 md:h-[100vh]  '>
-            <img src='/assets/images/Spidering-in-seo.jpg' alt='blog main' className='w-[100%] h-[100%] object-contain
+            <img src='/assets/images/spidering-in-seo.jpg' alt='blog main' className='w-[100%] h-[100%] object-contain
             
             lg:w-[100%] lg:h-[100%] lg:object-contain
             ' />

@@ -168,7 +168,7 @@ function Genre1() {
               <div className="blogImage2 h-[100%] w-[100%] overflow-hidden">
                 <img 
                   className="h-[100%] w-[100%] object-contain" 
-                  src="/assets/images/Spidering-in-seo.jpg"
+                  src="/assets/images/spidering-in-seo.jpg"
                   alt="Spidering in seo" 
                 />
               </div>
