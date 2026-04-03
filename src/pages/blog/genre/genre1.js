@@ -7,7 +7,7 @@ import Link from 'next/link';
 function Genre1() {
   return (
     <div>
-      <div className="blogBoxMain  h-auto w-[100vw]
+      <div className="blogBoxMain  h-auto w-[100vw] bg-red-600
         lg:h-[80vh] lg:w-[100vw]">
         
         <div className="blogBox  h-auto w-[100vw] m-auto !mt-10 flex flex-wrap  justify-start items-center !px-3 gap-5

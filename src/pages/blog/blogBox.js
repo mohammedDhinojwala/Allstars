@@ -18,13 +18,13 @@ function BlogBox() {
   }
 
   return (
-    <div className="blogMain bg-white-300 h-auto w-[100vw]">
+    <div className="blogMain  h-auto w-[100vw]">
 
       {/* Genre Headings */}
-      <div className="blogHeadings h-[10vh] w-[100vw] flex justify-center items-center !mt-20
+      <div className="blogHeadings h-[10vh] w-[100vw] flex justify-center items-center !mt-20 
                                   lg:h-[10vh] lg:w-[100vw] lg:flex lg:justify-center lg:items-center">
         <ul className="flex h-full w-[100%] justify-around items-center  text-black
-                        lg:h-full lg:!w-[30%] lg:justify-between lg:items-center  lg:text-black">
+                        lg:h-full lg:!w-[30%] lg:justify-between lg:items-center  lg:text-black bg-yellow-300">
         
         
         <li onClick={() => setActiveGenre("development")} className=" text-[0.8rem]  cursor-pointer

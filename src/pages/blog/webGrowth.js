@@ -167,7 +167,7 @@ function WebGrowth() {
             <h1>What to Measure: Web Growth SEO Metrics</h1>
           </div>
           <div className="webgrowth-metrics-photo w-[97.5%] h-[40%] rounded-3xl overflow-hidden !mt-5 lg:!w-[99%] lg:!h-[40%]">
-            <img className="" src="" alt="SEO metrics table for web growth" />
+            <img className=""  ="" alt="SEO metrics table for web growth" />
           </div>
           <div className="hero-description webgrowth-metrics-desc">
             <p className="!my-5 !mx-5">
